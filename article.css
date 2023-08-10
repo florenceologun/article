@@ -1,0 +1,16 @@
+h1{
+block-size: 50px;
+background-color: red;
+color: white
+
+
+}
+p{
+font-size: large;
+
+
+}
+
+img{
+    float: right;
+}
